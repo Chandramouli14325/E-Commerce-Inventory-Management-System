@@ -186,7 +186,6 @@ This adds one unit of product ID 1 to order ID 3 if the product is active, suffi
 The E-Commerce Inventory Management System demonstrates how MySQL can be used to manage inventory, customer orders, suppliers, and sales records. It provides a foundation for developing a complete inventory management application with a frontend and backend.
 
 ## Author Details
-
-- **Name:** 
-- **Domain:** 
-- **Internship ID:** 
+- **Name:** KURUBA CHANDRAMOULI 
+- **Domain:** SQL
+- **Internship ID:** CITS9354
